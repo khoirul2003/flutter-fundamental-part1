@@ -53,6 +53,23 @@ samples, guidance on mobile development, and a full API reference.
 5. Practicum 5: Applying Material Design and iOS Cupertino Widgets
 
   Step 1: Cupertino Button and Loading Bar
-  ![alt text](<img/Gambar WhatsApp 2025-09-28 pukul 00.37.37_d23031de.jpg>)
   ![alt text](<img/Rekaman 2025-09-28 004215.gif>)
+
+  Step 2: Floating Action Button (FAB)
+  ![alt text](<img/Rekaman 2025-09-28 004715.gif>)
+
+  Step 3: Scaffold Widget
+  ![alt text](<img/Rekaman 2025-09-28 013050.gif>)
+
+  Step 4: Widget Dialog
+  ![alt text](<img/Rekaman 2025-09-28 013552.gif>)
+
+  Step 5: Input and Selection Widget
+  ![alt text](<img/Rekaman 2025-09-28 013850.gif>)
+
+  Step 6: Date and Time Pickers
+  
+
+
+
   
