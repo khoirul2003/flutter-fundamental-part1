@@ -36,7 +36,7 @@ samples, guidance on mobile development, and a full API reference.
 
   ![alt text](<img/Gambar WhatsApp 2025-09-27 pukul 20.41.18_e57f4e09.jpg>)
 
-  ![alt text](img/image.png)
+  ![alt text](img/image0.png)
 
 3. Praktikum 3: Membuat Repository GitHub dan Laporan Praktikum
 
@@ -71,7 +71,27 @@ samples, guidance on mobile development, and a full API reference.
   ![alt text](<img/Rekaman 2025-09-28 014848.gif>)
 
 
-  
+# Codelabs: Your first Flutter app
+
+1. Create Flutter Project
+![alt text](img/image1.png)
+
+![alt text](img/image2.png)
+
+![alt text](img/image3.png)
+
+2. Add Button
+
+![alt text](img/image4.png)
+
+![alt text](img/image5.png)
+
+![alt text](img/20250929-0514-04.3725187.gif)
+
+3. Improving the appearance of the application
+
+![alt text](img/image6.png)
+
 
 
 
