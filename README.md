@@ -80,7 +80,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ![alt text](img/image3.png)
 
-2. Add Button
+2. Adding Button
 
 ![alt text](img/image4.png)
 
@@ -102,6 +102,23 @@ samples, guidance on mobile development, and a full API reference.
 
 ![alt text](img/image11.png)
 
+4. Adding functions
+
+![alt text](img/image12.png)
+
+![alt text](img/20250929-0918-29.6141549.gif)
+
+5. Adding a side navigation column
+
+![alt text](img/image13.png)
+
+![alt text](img/20250929-0941-23.5133226.gif)
+
+![alt text](img/20250929-0944-55.4134714.gif)
+
+![alt text](img/20250929-0949-41.9880620.gif)
+
+![alt text](img/20250929-1001-49.1266658.gif)
 
 
 
